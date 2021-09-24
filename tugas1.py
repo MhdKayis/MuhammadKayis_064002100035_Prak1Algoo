@@ -1,0 +1,7 @@
+print("@  @  @@@@@  @     @  @  @@@@@")
+print("@ @   @   @  @     @  @  @")
+print("@@    @@@@@  @@@@@@@  @  @@@@@")
+print("@ @   @   @     @     @      @")
+print("@  @  @   @     @     @  @@@@@")
+print("I'm playing mobile legend")
+print('aku','"aku bermain basket"')
